@@ -34,3 +34,40 @@ body{
   text-align: center;
   padding: 50px;
 }
+
+#portfolio{
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+}
+
+#row1{
+  padding: 10px;
+}
+
+#row2{
+  padding: 10px;
+}
+
+.contact{
+  background-image: url("../assets/backgrounds/c_image.jpg");
+  background-size: cover;
+  height: 500px;
+  text-align: center;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  color: white;
+}
+
+#myForm{
+  background-color: transparent !important;
+}
+
+.social-icons{
+  padding-top: 50px;
+  text-align: center;
+
+}
