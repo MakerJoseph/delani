@@ -37,9 +37,6 @@ body{
 
 #portfolio{
   text-align: center;
-  padding-left: 50px;
-  padding-right: 50px;
-  padding-bottom: 50px;
 }
 
 #row1{
@@ -69,5 +66,4 @@ body{
 .social-icons{
   padding-top: 50px;
   text-align: center;
-
 }
