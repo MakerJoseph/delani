@@ -22,12 +22,12 @@ body{
 .services{
   background-image: url("../assets/backgrounds/s_image.jpg");
   color: white;
-  height: 450px;
+  height: 326px;
   padding-top: 80px;
   padding-left: 350px;
   padding-right: 350px;
   text-align: center;
-  background-size: cover;
+  background-size: contain;
 }
 
 .what{
