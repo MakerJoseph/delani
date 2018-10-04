@@ -40,11 +40,11 @@ body{
 }
 
 #row1{
-  padding: 10px;
+  padding-top: 20px;
 }
 
 #row2{
-  padding: 10px;
+  padding-bottom: 20px;
 }
 
 .contact{
@@ -60,10 +60,14 @@ body{
 }
 
 #myForm{
-  background-color: transparent !important;
+  opacity: 0%;
 }
 
 .social-icons{
   padding-top: 50px;
   text-align: center;
+}
+
+#img-div{
+
 }
