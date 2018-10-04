@@ -2,7 +2,7 @@
 #### A software developers' company, Oct 2 2018
 #### By **Joseph Maker**
 ## Description
-This is a company which offers services in software development. They will build products according to your business vision as they work closely with you. Signing a contract with them will help you you achieve your business goals by building a for you amazing products.
+This is a company which offers services in software development. They will build products according to your business vision as they work closely with you. Signing a contract with them will help you you achieve your business goals by building for you amazing products.
 ## Setup/Installation Requirements
 * Clone repository from Github
 * Open Chrome browser

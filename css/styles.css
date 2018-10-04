@@ -59,8 +59,8 @@ body{
   color: white;
 }
 
-#myForm{
-  opacity: 0%;
+::-webkit-input-placeholder {
+  color: white !important;
 }
 
 .social-icons{
