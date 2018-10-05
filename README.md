@@ -6,9 +6,7 @@ This is a company which offers services in software development. They will build
 ## Setup/Installation Requirements
 * Clone repository from Github
 * Open Chrome browser
-* Use the link
-
-## Known Bugs
+* Use the link https://makerjoseph.github.io/delani/
 
 ## Technologies Used
 HTML, CSS
